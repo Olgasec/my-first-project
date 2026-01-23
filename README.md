@@ -10,7 +10,18 @@ This project contains a Python script that generates a beautiful, colorful geome
 2. Make sure you have **Python** installed on your computer.
 3. Run the script and enjoy the animation!
 
----
 *Created by me as I start my coding journey.*
 ## Demo
 You can see the code running live here: [Live Python Demo](https://trinket.io/python/65bd99a383)
+
+# My Computer Science Journey
+This repository tracks my progress in Computer Science.
+
+## Current Projects
+* **C Language Exercises**: A collection of 19+ academic exercises covering loops, functions, and logic. Located in the `/C-Language` folder.
+* **Python Scripts**: Creative coding projects using Python.
+
+## Skills
+* C Programming
+* Python
+* Version Control (Git/GitHub)
