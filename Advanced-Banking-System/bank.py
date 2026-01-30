@@ -1,4 +1,5 @@
- accounts = {"Admin": 1000.0}  # Αρχικά δεδομένα
+def bank_system():
+accounts = {"Admin": 1000.0}  # Αρχικά δεδομένα
     history = []
 
     while True:
