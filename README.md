@@ -25,10 +25,4 @@ This repository tracks my progress in Computer Science.
 * C Programming
 * Python
 * Version Control (Git/GitHub)
-# Secure Banking System Simulation
-A Python project focused on secure transaction logic and account management.
 
-## Features
-- Multi-account handling.
-- Transaction history tracking.
-- Logic-based security for deposits and withdrawals.
