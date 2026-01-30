@@ -1,8 +1,7 @@
 def bank_system():
 accounts = {"Admin": 1000.0}  # Αρχικά δεδομένα
     history = []
-
-    while True:
+ while True:
         print("\n=== CENTRAL BANKING SYSTEM ===")
         print("1. Create Account\n2. Deposit\n3. Withdraw\n4. Transaction History\n5. Exit")
         choice = input("Select option: ")
