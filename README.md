@@ -26,3 +26,14 @@ This repository tracks my progress in Computer Science.
 * Python
 * Version Control (Git/GitHub)
 
+
+# Computer Science & Programming Exercises
+[cite_start]This repository contains my academic progress and foundational exercises from my studies at the University of Thessaly[cite: 23].
+
+## Contents
+- [cite_start]**C Programming (30+ Exercises):** Focused on memory management, data structures, and algorithmic logic[cite: 11, 19].
+- [cite_start]**Python Labs (15+ Projects):** Includes early scripts, automation tools, and creative coding (Turtle library)[cite: 11].
+- [cite_start]**Digital Systems:** Projects related to Digital Logic and Computer Architecture[cite: 14, 23].
+
+## Education
+- **B.Sc. in Digital Systems** | [cite_start]University of Thessaly (Expected 2029)[cite: 23].
